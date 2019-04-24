@@ -10,3 +10,8 @@ MarkDown1-5 - anonymized data related to promotional markdowns that Walmart is r
 MarkDown data is only available after Nov 2011, and is not available for all stores all the time. Any missing value is marked with an NA. CPI - the consumer price index
 Unemployment - the unemployment rate 
 IsHoliday - whether the week is a special holiday week
+
+### References
+https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting
+https://www.8thandwalton.com/departments
+https://github.com/mikeskim
