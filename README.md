@@ -13,5 +13,7 @@ IsHoliday - whether the week is a special holiday week
 
 ### References
 https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting
+
 https://www.8thandwalton.com/departments
+
 https://github.com/mikeskim
